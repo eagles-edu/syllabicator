@@ -1,0 +1,23 @@
+{
+  "name": "syllabicator",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "lint:js": "eslint . --ext .js",
+    "lint:css": "stylelint \"**/*.css\"",
+    "lint:html": "htmlhint \"**/*.html\"",
+    "lint:python": "python -m pylint app run.py tests",
+    "lint:all": "npm run lint:js && npm run lint:css && npm run lint:html && npm run lint:python",
+    "quality": "npm run test && npm run lint:all",
+    "check:coverage": "codecov",
+    "test": "python -m pytest -q"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-standard": "^17.1.0",
+    "htmlhint": "^1.1.4",
+    "stylelint": "^16.0.0",
+    "stylelint-config-standard": "^37.0.0",
+    "codecov": "^3.8.3"
+  }
+}

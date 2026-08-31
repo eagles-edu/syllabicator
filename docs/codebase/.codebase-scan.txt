@@ -1,0 +1,444 @@
+
+=== DIRECTORY TREE (max depth 3, source files only) ===
+.agents
+.agents/skills
+.agents/skills/accessibility-compliance
+.agents/skills/accessibility-compliance/SKILL.md
+.agents/skills/accessibility-compliance/references
+.agents/skills/acquire-codebase-knowledge
+.agents/skills/acquire-codebase-knowledge/SKILL.md
+.agents/skills/acquire-codebase-knowledge/assets
+.agents/skills/acquire-codebase-knowledge/references
+.agents/skills/acquire-codebase-knowledge/scripts
+.agents/skills/acreadiness-assess
+.agents/skills/acreadiness-assess/SKILL.md
+.agents/skills/acreadiness-assess/report-template.html
+.agents/skills/acreadiness-generate-instructions
+.agents/skills/acreadiness-generate-instructions/SKILL.md
+.agents/skills/acreadiness-policy
+.agents/skills/acreadiness-policy/SKILL.md
+.agents/skills/ad-campaign-analyzer
+.agents/skills/ad-campaign-analyzer/SKILL.md
+.agents/skills/add-educational-comments
+.agents/skills/add-educational-comments/SKILL.md
+.agents/skills/adobe-illustrator-scripting
+.agents/skills/adobe-illustrator-scripting/SKILL.md
+.agents/skills/adobe-illustrator-scripting/references
+.agents/skills/adobe-illustrator-scripting/scripts
+.agents/skills/agent-governance
+.agents/skills/agent-governance/SKILL.md
+.agents/skills/agent-owasp-compliance
+.agents/skills/agent-owasp-compliance/SKILL.md
+.agents/skills/agent-skill-stack
+.agents/skills/agent-skill-stack/SKILL.md
+.agents/skills/agent-skill-stack/agents
+.agents/skills/agent-skill-stack/references
+.agents/skills/agent-skill-stack/scripts
+.agents/skills/agent-supply-chain
+.agents/skills/agent-supply-chain/SKILL.md
+.agents/skills/agentic-eval
+.agents/skills/agentic-eval/SKILL.md
+.agents/skills/agentic-workflows
+.agents/skills/agentic-workflows/SKILL.md
+.agents/skills/agents-build
+.agents/skills/agents-build/SKILL.md
+.agents/skills/agents-build/references
+.agents/skills/agents-build/scripts
+.agents/skills/agents-connect
+.agents/skills/agents-connect/SKILL.md
+.agents/skills/agents-connect/references
+.agents/skills/agents-debug
+.agents/skills/agents-debug/SKILL.md
+.agents/skills/agents-debug/references
+.agents/skills/agents-deploy
+.agents/skills/agents-deploy/SKILL.md
+.agents/skills/agents-deploy/references
+.agents/skills/agents-get-started
+.agents/skills/agents-get-started/SKILL.md
+.agents/skills/agents-get-started/references
+.agents/skills/agents-harden
+.agents/skills/agents-harden/SKILL.md
+.agents/skills/agents-harden/references
+.agents/skills/agents-optimize
+.agents/skills/agents-optimize/SKILL.md
+.agents/skills/agents-optimize/references
+.agents/skills/agents-pay
+.agents/skills/agents-pay/.gitignore
+.agents/skills/agents-pay/SKILL.md
+.agents/skills/agents-pay/packages
+.agents/skills/agents-pay/references
+.agents/skills/agents-pay/requirements.txt
+.agents/skills/agents-pay/scripts
+.agents/skills/ai-debt-detector
+.agents/skills/ai-debt-detector/SKILL.md
+.agents/skills/ai-prompt-engineering-safety-review
+.agents/skills/ai-prompt-engineering-safety-review/SKILL.md
+.agents/skills/ai-ready
+.agents/skills/ai-ready/SKILL.md
+.agents/skills/ai-team-orchestration
+.agents/skills/ai-team-orchestration/SKILL.md
+.agents/skills/ai-team-orchestration/references
+.agents/skills/airflow-dag-patterns
+.agents/skills/airflow-dag-patterns/SKILL.md
+.agents/skills/airflow-dag-patterns/references
+.agents/skills/amazon-aurora-mysql
+.agents/skills/amazon-aurora-mysql/SKILL.md
+.agents/skills/amazon-aurora-mysql/references
+.agents/skills/amazon-aurora-mysql/scripts
+.agents/skills/amazon-aurora-postgresql
+.agents/skills/amazon-aurora-postgresql/SKILL.md
+.agents/skills/amazon-aurora-postgresql/references
+.agents/skills/amazon-aurora-postgresql/scripts
+.agents/skills/amazon-bedrock
+.agents/skills/amazon-bedrock/SKILL.md
+.agents/skills/amazon-bedrock/assets
+.agents/skills/amazon-bedrock/references
+.agents/skills/amazon-bedrock/scripts
+.agents/skills/amazon-braket
+.agents/skills/amazon-braket/SKILL.md
+.agents/skills/amazon-braket/references
+.agents/skills/amazon-documentdb
+.agents/skills/amazon-documentdb/SKILL.md
+.agents/skills/amazon-documentdb/references
+.agents/skills/amazon-documentdb/scripts
+.agents/skills/amazon-dynamodb
+.agents/skills/amazon-dynamodb/SKILL.md
+.agents/skills/amazon-dynamodb/references
+.agents/skills/amazon-dynamodb/scripts
+.agents/skills/amazon-ec2-image-builder
+.agents/skills/amazon-ec2-image-builder/SKILL.md
+.agents/skills/amazon-ec2-image-builder/references
+.agents/skills/amazon-elasticache
+.agents/skills/amazon-elasticache/SKILL.md
+.agents/skills/amazon-elasticache/assets
+.agents/skills/amazon-elasticache/references
+.agents/skills/amazon-elasticache/scripts
+.agents/skills/amazon-keyspaces
+.agents/skills/amazon-keyspaces/SKILL.md
+.agents/skills/amazon-keyspaces/assets
+.agents/skills/amazon-keyspaces/references
+.agents/skills/amazon-keyspaces/scripts
+.agents/skills/amazon-opensearch-service
+.agents/skills/amazon-opensearch-service/SKILL.md
+.agents/skills/amazon-opensearch-service/assets
+.agents/skills/amazon-opensearch-service/references
+.agents/skills/amazon-ses
+.agents/skills/amazon-ses/SKILL.md
+.agents/skills/amazon-ses/references
+.agents/skills/analyzing-release-readiness
+.agents/skills/analyzing-release-readiness/SKILL.md
+.agents/skills/angular-migration
+.agents/skills/angular-migration/SKILL.md
+.agents/skills/angular-migration/references
+.agents/skills/anti-reversing-techniques
+.agents/skills/anti-reversing-techniques/SKILL.md
+.agents/skills/anti-reversing-techniques/references
+.agents/skills/anti-ui-slop
+.agents/skills/anti-ui-slop/CHECKSUMS.sha256
+.agents/skills/anti-ui-slop/LICENSE
+.agents/skills/anti-ui-slop/MANIFEST.json
+.agents/skills/anti-ui-slop/MODIFICATIONS.md
+.agents/skills/anti-ui-slop/NOTICE
+.agents/skills/anti-ui-slop/SKILL.md
+.agents/skills/anti-ui-slop/agents
+.agents/skills/anti-ui-slop/reference
+.agents/skills/anti-ui-slop/references
+.agents/skills/api-design-principles
+.agents/skills/api-design-principles/SKILL.md
+.agents/skills/api-design-principles/assets
+.agents/skills/api-design-principles/references
+.agents/skills/appinsights-instrumentation
+.agents/skills/appinsights-instrumentation/LICENSE.txt
+.agents/skills/appinsights-instrumentation/SKILL.md
+.agents/skills/appinsights-instrumentation/examples
+.agents/skills/appinsights-instrumentation/references
+.agents/skills/appinsights-instrumentation/scripts
+.agents/skills/apple-appstore-reviewer
+.agents/skills/apple-appstore-reviewer/SKILL.md
+.agents/skills/arc-region-switch
+.agents/skills/arc-region-switch/SKILL.md
+.agents/skills/arc-region-switch/references
+.agents/skills/arch-linux-triage
+.agents/skills/arch-linux-triage/SKILL.md
+.agents/skills/architecture-blueprint-generator
+.agents/skills/architecture-blueprint-generator/SKILL.md
+.agents/skills/architecture-decision-records
+.agents/skills/architecture-decision-records/SKILL.md
+.agents/skills/architecture-patterns
+.agents/skills/architecture-patterns/SKILL.md
+.agents/skills/architecture-patterns/references
+.agents/skills/arduino-azure-iot-edge-integration
+.agents/skills/arduino-azure-iot-edge-integration/SKILL.md
+.agents/skills/arduino-azure-iot-edge-integration/references
+.agents/skills/arize-ai-provider-integration
+.agents/skills/arize-ai-provider-integration/SKILL.md
+.agents/skills/arize-ai-provider-integration/references
+.agents/skills/arize-annotation
+.agents/skills/arize-annotation/SKILL.md
+.agents/skills/arize-annotation/references
+.agents/skills/arize-dataset
+.agents/skills/arize-dataset/SKILL.md
+.agents/skills/arize-dataset/references
+.agents/skills/arize-evaluator
+.agents/skills/arize-evaluator/SKILL.md
+.agents/skills/arize-evaluator/references
+.agents/skills/arize-experiment
+.agents/skills/arize-experiment/SKILL.md
+.agents/skills/arize-experiment/references
+.agents/skills/arize-instrumentation
+.agents/skills/arize-instrumentation/SKILL.md
+.agents/skills/arize-instrumentation/references
+.agents/skills/arize-link
+.agents/skills/arize-link/SKILL.md
+.agents/skills/arize-link/references
+.agents/skills/arize-prompt-optimization
+.agents/skills/arize-prompt-optimization/SKILL.md
+.agents/skills/arize-prompt-optimization/references
+.agents/skills/arize-trace
+.agents/skills/arize-trace/SKILL.md
+.agents/skills/arize-trace/references
+.agents/skills/aspire
+.agents/skills/aspire/SKILL.md
+.agents/skills/aspire/references
+
+=== STACK DETECTION (manifest files) ===
+
+--- package-lock.json ---
+{
+  "name": "syllabicator",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "syllabicator",
+      "version": "1.0.0",
+      "devDependencies": {
+        "codecov": "^3.8.3",
+        "eslint": "^8.57.1",
+        "eslint-config-standard": "^17.1.0",
+        "htmlhint": "^1.1.4",
+        "stylelint": "^16.0.0",
+        "stylelint-config-standard": "^37.0.0"
+      }
+    },
+    "node_modules/@babel/code-frame": {
+      "version": "7.29.7",
+      "resolved": "https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.29.7.tgz",
+      "integrity": "sha512-Aup7aUOfpbAUg2ROOJN6Iw5f9DMBlzu0mIkm/malLQFN/YQgO48wCj0Kxa3sEHJvPVFg7siR+qRInwXd2qhQKw==",
+      "dev": true,
+      "license": "MIT",
+      "dependencies": {
+        "@babel/helper-validator-identifier": "^7.29.7",
+        "js-tokens": "^4.0.0",
+        "picocolors": "^1.1.1"
+      },
+      "engines": {
+        "node": ">=6.9.0"
+      }
+    },
+    "node_modules/@babel/helper-validator-identifier": {
+      "version": "7.29.7",
+      "resolved": "https://registry.npmjs.org/@babel/helper-validator-identifier/-/helper-validator-identifier-7.29.7.tgz",
+      "integrity": "sha512-qehxGkRj55h/ff8EMaJ+cYhyaKlHIxqYDn682wQD7RNp9UujOQsHog2uS0r2vzr4pW+sXf90NeeayjcNaX3fFg==",
+      "dev": true,
+      "license": "MIT",
+      "engines": {
+        "node": ">=6.9.0"
+      }
+    },
+    "node_modules/@cacheable/memory": {
+      "version": "2.2.0",
+      "resolved": "https://registry.npmjs.org/@cacheable/memory/-/memory-2.2.0.tgz",
+      "integrity": "sha512-CTLKqLItRCEixEAewD3/j9DB3/o96gpTPD4eJ1v+DGOlxZRZncRQkGYqqnAGCscYd6RNeXfGeiuCphsPtqyIfQ==",
+      "dev": true,
+      "license": "MIT",
+      "dependencies": {
+        "@cacheable/utils": "^2.5.0",
+        "@keyv/bigmap": "^1.3.1",
+        "hookified": "^1.15.1",
+        "keyv": "^5.6.0"
+      }
+    },
+    "node_modules/@cacheable/memory/node_modules/@keyv/bigmap": {
+      "version": "1.3.1",
+      "resolved": "https://registry.npmjs.org/@keyv/bigmap/-/bigmap-1.3.1.tgz",
+      "integrity": "sha512-WbzE9sdmQtKy8vrNPa9BRnwZh5UF4s1KTmSK0KUVLo3eff5BlQNNWDnFOouNpKfPKDnms9xynJjsMYjMaT/aFQ==",
+      "dev": true,
+      "license": "MIT",
+      "dependencies": {
+        "hashery": "^1.4.0",
+        "hookified": "^1.15.0"
+      },
+      "engines": {
+        "node": ">= 18"
+      },
+      "peerDependencies": {
+        "keyv": "^5.6.0"
+      }
+    },
+    "node_modules/@cacheable/memory/node_modules/keyv": {
+      "version": "5.6.0",
+      "resolved": "https://registry.npmjs.org/keyv/-/keyv-5.6.0.tgz",
+      "integrity": "sha512-CYDD3SOtsHtyXeEORYRx2qBtpDJFjRTGXUtmNEMGyzYOKj1TE3tycdlho7kA1Ufx9OYWZzg52QFBGALTirzDSw==",
+      "dev": true,
+      "license": "MIT",
+      "dependencies": {
+
+[TRUNCATED] Showing first 80 of 5361 lines.
+--- package.json ---
+{
+  "name": "syllabicator",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "lint:js": "eslint . --ext .js",
+    "lint:css": "stylelint \"**/*.css\"",
+    "lint:html": "htmlhint \"**/*.html\"",
+    "lint:python": "python -m pylint app run.py tests",
+    "lint:all": "npm run lint:js && npm run lint:css && npm run lint:html && npm run lint:python",
+    "quality": "npm run test && npm run lint:all",
+    "check:coverage": "codecov",
+    "test": "python -m pytest -q"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-standard": "^17.1.0",
+    "htmlhint": "^1.1.4",
+    "stylelint": "^16.0.0",
+    "stylelint-config-standard": "^37.0.0",
+    "codecov": "^3.8.3"
+  }
+}
+
+--- requirements.txt ---
+Flask==3.1.0
+gunicorn==23.0.0
+python-dotenv==1.0.1
+pytest==8.3.2
+nltk==3.9.1
+pylint==3.3.1
+
+
+=== ENTRY POINTS ===
+Found: run.py
+
+=== LINTING AND FORMATTING CONFIG ===
+Found: .eslintrc.json
+Found: .pylintrc
+
+=== ENVIRONMENT VARIABLE TEMPLATES ===
+--- .env.example ---
+FLASK_ENV=development
+SECRET_KEY=change-me
+PORT=5000
+HOST=0.0.0.0
+
+
+=== TODO / FIXME / HACK (production code only, test dirs excluded) ===
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:28: TODO_LIMIT = 60
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:291: """Search for TODO/FIXME/HACK comments."""
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:291: """Search for TODO/FIXME/HACK comments."""
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:291: """Search for TODO/FIXME/HACK comments."""
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:293: patterns = ["TODO", "FIXME", "HACK"]
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:293: patterns = ["TODO", "FIXME", "HACK"]
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:293: patterns = ["TODO", "FIXME", "HACK"]
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:320: return todos[:TODO_LIMIT]
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:617: # TODOs
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:620: print_section("TODO / FIXME / HACK (production code only, test dirs excluded)", todos, output_file)
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:620: print_section("TODO / FIXME / HACK (production code only, test dirs excluded)", todos, output_file)
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:620: print_section("TODO / FIXME / HACK (production code only, test dirs excluded)", todos, output_file)
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:622: print_section("TODO / FIXME / HACK (production code only, test dirs excluded)", ["None found."], output_file)
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:622: print_section("TODO / FIXME / HACK (production code only, test dirs excluded)", ["None found."], output_file)
+.agents/skills/acquire-codebase-knowledge/scripts/scan.py:622: print_section("TODO / FIXME / HACK (production code only, test dirs excluded)", ["None found."], output_file)
+.agents/skills/code-tour/scripts/generate_from_docs.py:100: "description": f"[TODO: {hint}]",
+.agents/skills/code-tour/scripts/generate_from_docs.py:107: "title": f"[TODO: title for {path}]",
+.agents/skills/code-tour/scripts/generate_from_docs.py:108: "description": f"[TODO: {hint or 'explain this file for the persona'}]",
+.agents/skills/code-tour/scripts/generate_from_docs.py:116: "title": f"[TODO: title for {path}/]",
+.agents/skills/code-tour/scripts/generate_from_docs.py:117: "description": f"[TODO: {hint or 'explain what lives here'}]",
+.agents/skills/code-tour/scripts/generate_from_docs.py:125: "description": "[TODO: explain why this link is relevant and what the reader should notice]",
+.agents/skills/code-tour/scripts/generate_from_docs.py:236: "title": f"[TODO: descriptive title for {persona} tour]",
+.agents/skills/code-tour/scripts/generate_from_docs.py:237: "description": f"[TODO: one sentence — who this is for and what they'll understand]",
+.agents/skills/code-tour/scripts/generate_from_docs.py:240: "This is a skeleton. Fill in every [TODO: ...] with real content. "
+.agents/skills/code-tour/scripts/generate_from_docs.py:280: print(f"   Fill in all [TODO: ...] entries before sharing")
+.agents/skills/api-design-principles/assets/rest-api-template.py:25: allowed_hosts=["*"] # TODO: Configure this in production, e.g. ["api.example.com"]
+.agents/skills/api-design-principles/assets/rest-api-template.py:31: allow_origins=["*"], # TODO: Update this with specific origins in production
+.agents/skills/api-design-principles/assets/rest-api-template.py:32: allow_credentials=False, # TODO: Set to True if you need cookies/auth headers, but restrict origins
+.agents/skills/aws-ai-ml/references/finetuning/templates/nova_rlvr_reward_function_source_template.py:108: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/finetuning/templates/nova_rlvr_reward_function_source_template.py:155: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/finetuning/templates/nova_rlvr_reward_function_source_template.py:215: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/finetuning/templates/nova_rlvr_reward_function_source_template.py:254: # TODO: UPDATE or REMOVE the reward function as per YOUR use case
+.agents/skills/aws-ai-ml/references/finetuning/templates/nova_rlvr_reward_function_source_template.py:269: # TODO: UPDATE logic to parse the input as per YOUR use case
+.agents/skills/aws-ai-ml/references/finetuning/templates/nova_rlvr_reward_function_source_template.py:299: # TODO: UPDATE logic to compute aggregate score
+.agents/skills/aws-ai-ml/references/finetuning/templates/nova_rlvr_reward_function_source_template.py:307: # TODO: UPDATE logic to compute metrics list
+.agents/skills/aws-ai-ml/references/finetuning/templates/nova_rlvr_reward_function_source_template.py:319: # TODO: UPDATE the return statement to return YOUR output
+.agents/skills/aws-ai-ml/references/finetuning/templates/rlvr_reward_function_source_template.py:31: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/finetuning/templates/rlvr_reward_function_source_template.py:78: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/finetuning/templates/rlvr_reward_function_source_template.py:138: # TODO: UPDATE or REMOVE the reward function as per YOUR use case
+.agents/skills/aws-ai-ml/references/finetuning/templates/rlvr_reward_function_source_template.py:153: # TODO: UPDATE logic to parse the input as per YOUR use case
+.agents/skills/aws-ai-ml/references/finetuning/templates/rlvr_reward_function_source_template.py:187: # TODO: UPDATE logic to compute aggregate score
+.agents/skills/aws-ai-ml/references/finetuning/templates/rlvr_reward_function_source_template.py:196: # TODO: UPDATE logic to compute metrics list
+.agents/skills/aws-ai-ml/references/finetuning/templates/rlvr_reward_function_source_template.py:208: # TODO: UPDATE the return statement to return YOUR outout
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/nova_reward_function_source_template.py:108: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/nova_reward_function_source_template.py:155: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/nova_reward_function_source_template.py:215: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/nova_reward_function_source_template.py:254: # TODO: UPDATE or REMOVE the reward function as per YOUR use case
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/nova_reward_function_source_template.py:269: # TODO: UPDATE logic to parse the input as per YOUR use case
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/nova_reward_function_source_template.py:299: # TODO: UPDATE logic to compute aggregate score
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/nova_reward_function_source_template.py:307: # TODO: UPDATE logic to compute metrics list
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/nova_reward_function_source_template.py:319: # TODO: UPDATE the return statement to return YOUR output
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/reward_function_source_template.py:31: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/reward_function_source_template.py:78: # TODO: UPDATE or REMOVE the helper function as per YOUR use case
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/reward_function_source_template.py:138: # TODO: UPDATE or REMOVE the reward function as per YOUR use case
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/reward_function_source_template.py:153: # TODO: UPDATE logic to parse the input as per YOUR use case
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/reward_function_source_template.py:189: # TODO: UPDATE logic to compute aggregate score
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/reward_function_source_template.py:198: # TODO: UPDATE logic to compute metrics list
+.agents/skills/aws-ai-ml/references/model-evaluation/scripts/reward_function_source_template.py:210: # TODO: UPDATE the return statement to return YOUR outout
+
+=== GIT RECENT COMMITS (last 20) ===
+No commits found.
+
+=== HIGH-CHURN FILES (last 90 days, top 20) ===
+None found.
+
+=== MONOREPO SIGNALS ===
+No monorepo signals detected.
+
+=== CODE METRICS ===
+Total files scanned: 2868
+Total lines of code: 106495
+
+Files by language:
+  Other: 2671
+  Python: 164
+  TypeScript: 18
+  JavaScript: 5
+  C#: 5
+  JavaScript/React: 3
+  Java: 2
+
+Top 10 largest files:
+.agents/skills/azure-architecture-autopilot/scripts/icons.py: 2094.5KB
+.agents/skills/tm7-threat-model/assets/example-minimal.tm7: 1085.3KB
+.agents/skills/azure-architecture-autopilot/assets/06-architecture-diagram.png: 326.8KB
+.agents/skills/geofeed-tuner/assets/iso3166-2.json: 313.2KB
+.agents/skills/quality-playbook/SKILL.md: 287.5KB
+package-lock.json: 181.0KB
+.agents/skills/azure-architecture-autopilot/assets/07-azure-portal-resources.png: 171.4KB
+.agents/skills/azure-architecture-autopilot/scripts/generator.py: 137.2KB
+.agents/skills/amazon-dynamodb/SKILL.md: 136.7KB
+.agents/skills/quality-playbook/quality_gate.py: 128.4KB
+
+=== CI/CD PIPELINES ===
+No CI/CD pipelines detected.
+
+=== CONTAINERS & ORCHESTRATION ===
+No containerization configs detected.
+
+=== SECURITY & COMPLIANCE ===
+No security configs detected.
+
+=== PERFORMANCE & TESTING ===
+No performance testing configs detected.
+
+=== SCAN COMPLETE ===

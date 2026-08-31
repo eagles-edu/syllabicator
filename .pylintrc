@@ -1,0 +1,20 @@
+[MASTER]
+ignore=venv,.venv,__pycache__
+
+[FORMAT]
+max-line-length=120
+
+[MESSAGES CONTROL]
+disable=
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
+    broad-exception-caught,
+    consider-using-f-string,
+    import-outside-toplevel,
+    too-few-public-methods,
+    redefined-outer-name
+
+[DESIGN]
+max-args=8
+max-attributes=12

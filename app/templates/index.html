@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syllabicator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="hero">
+        <p class="eyebrow">Phonics-first ESL reader</p>
+        <h1>Syllabicator</h1>
+        <p class="subtitle">
+          Decode English words into stress-aware syllables with a teaching-first interface.
+        </p>
+      </header>
+
+      <section class="search-panel">
+        <form id="word-form" class="search-form">
+          <label for="word-input" class="sr-only">Word</label>
+          <input id="word-input" name="word" type="text" value="{{ word or '' }}" placeholder="Type a word…">
+          <button type="submit">Analyze</button>
+        </form>
+      </section>
+
+      <section id="result-card" class="result-card hidden">
+        <div class="result-header">
+          <span class="label">Reading pattern</span>
+          <span id="cefr-badge" class="badge">A1</span>
+        </div>
+        <div class="word-row">
+          <h2 id="word-display">—</h2>
+        </div>
+        <div id="decode-display" class="decode-display">—</div>
+        <div class="meta-grid">
+          <div>
+            <span class="meta-label">Syllables</span>
+            <strong id="syllable-count">0</strong>
+          </div>
+          <div>
+            <span class="meta-label">Stress</span>
+            <strong id="stress-index">0</strong>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>
